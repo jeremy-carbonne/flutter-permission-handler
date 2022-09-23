@@ -23,7 +23,7 @@
 // Info.plist: NSContactsUsageDescription
 // dart: PermissionGroup.contacts
 #ifndef PERMISSION_CONTACTS
-    #define PERMISSION_CONTACTS 0
+    #define PERMISSION_CONTACTS 1
 #endif
 
 // ios: PermissionGroupCamera
